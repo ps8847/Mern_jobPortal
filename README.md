@@ -3,7 +3,7 @@
 A full-stack job portal application built using the MERN stack, where recruiters can post jobs and companies, and users can view and apply for job openings. 
 
 # Live Link 
-You can access the live version [here]().
+You can access the live version [here](https://mern-job-portal-puce.vercel.app/).
 
 
 ## Features
